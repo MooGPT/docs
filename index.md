@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MooGPT | A chatbot with OpenAI.
+title: A chatbot with OpenAI
 ---
 
 - Note: We provide information to help you make policy decisions. We help you write documents and research materials.
