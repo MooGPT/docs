@@ -1,3 +1,8 @@
+---
+layout: default
+title: MooGPT | A chatbot with OpenAI.
+---
+
 > [!NOTE]
 > We provide information to help you make policy decisions. We help you write documents and research materials.
 
