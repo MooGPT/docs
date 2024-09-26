@@ -3,18 +3,9 @@ layout: default
 title: MooGPT | A chatbot with OpenAI.
 ---
 
-> [!NOTE]
-> We provide information to help you make policy decisions. We help you write documents and research materials.
-
-____
-
-> [!WARNING]
-> Please be sure to verify the information provided.
-
-____
-
-> [!CAUTION]
-> Please be aware of the risk of sensitive information being leaked.
+- Note: We provide information to help you make policy decisions. We help you write documents and research materials.
+- Warning: Please be sure to verify the information provided.
+- Caution: Please be aware of the risk of sensitive information being leaked.
 
 # MooGPT (preferred opened OpenAI release)
 
