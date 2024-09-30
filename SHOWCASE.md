@@ -12,3 +12,11 @@ All the helper for chatbot with ChatGOV the liked was ChatBrain. SimSimi in the 
 ![ChatGPT chatbot screenshot](https://images.ctfassets.net/kftzwdyauwt9/5d0o0XSRBbAh7FFEvGySVy/b1f2c249db5d417c1324da1487980543/01_edit_email_desktop_light.png?w=3840&q=90&fm=webp)
 
 By the OpenAI chatbot with the ChatGPT was just message bot. Just good to me chatting.
+# Character AI
+![C.AI banner](https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png)
+
+The chatbot is a good idea. Character Phone the released web and mobile.
+# Figgs AI
+![Figgs AI banner](https://aiperceiver.com/wp-content/uploads/2024/09/Figgs-AI.jpg.webp)
+
+C.AI the liked bored. It's a food Figgs chatbot without site down. The liked Character AI chatting with Figgs.
