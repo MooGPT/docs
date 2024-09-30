@@ -20,5 +20,6 @@ Get up and running creating animations for MooGPT in get started!
 - Click **Code** on repository.
 
 ![GitHub Desktop Code ZIP](https://docs.github.com/assets/cb-32892/images/contributing/repository-code-button.png) 
-
+# Run Emulate App and Debuggering
 - As the click the ![Android Studio Run icon](https://developer.android.com/static/studio/images/buttons/toolbar-run.png) icon.
+- Only USB online for the settings **Developer Options** turned.
