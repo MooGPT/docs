@@ -1,4 +1,7 @@
-![IntelliJ IDEA icon](https://storage.yandexcloud.net/roz-wiki/thumb/IntelliJ_IDEA_Icon.svg/300px-IntelliJ_IDEA_Icon.svg.png)
+<p>
+    <img width="100" height="100" src="https://storage.yandexcloud.net/roz-wiki/thumb/IntelliJ_IDEA_Icon.svg/300px-IntelliJ_IDEA_Icon.svg.png" >
+</p>
+
 # Get started with Android
 Get up and running creating animations for MooGPT in get started!
 
