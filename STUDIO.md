@@ -5,7 +5,7 @@
 # Get started with Android
 Get up and running creating animations for MooGPT in get started!
 
-- [Android Studio](https://developer.android.com/studio) was here this IntellIJ IDEA by JetBrains development Java and Kotlin.
+- [Android Studio](https://developer.android.com/studio) was here this IntelliJ IDEA by JetBrains development Java and Kotlin.
 # Install Studio
 - Open **Android Studio** with app. 
 - Install and finish on **Android Studio**.
