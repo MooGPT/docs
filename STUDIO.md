@@ -10,4 +10,10 @@ Get up and running creating animations for MooGPT in get started!
 - Open **Android Studio** with app. 
 - Install and finish on **Android Studio**.
 
-![Android Studio setup installer](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-install-android-studio/img/6a7eba659ca0d6f1_1920.png) 
+![Android Studio setup installer](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-install-android-studio/img/6a7eba659ca0d6f1_1920.png)
+
+- Plainned welcome to the Android Studio!
+
+![Android Studio greetings](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-install-android-studio/img/e32573db6eb94acb_1920.png) 
+
+- The project click the **Open** on your Android Studio please GitHub repository.
