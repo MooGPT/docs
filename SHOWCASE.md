@@ -24,3 +24,7 @@ C.AI the liked bored. It's a food Figgs chatbot without site down. The liked Cha
 ![Gemini screenshot banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SS.width-1300.jpg)
 
 Bard not a just Gemini. Chatbot on the Gemini bot. If you Google Assistant on the Gemini app.
+# Yandex Alice
+![Alice banner](https://avatars.dzeninfra.ru/get-zen_doc/9676276/pub_64b93a8918dce72919c74458_64b93f5f69fc6a33d0b60b1a/scale_1200)
+
+YaGPT got a good morning! Anyone else example: `Alice, turn on bulb.` was just Yandex Home.
