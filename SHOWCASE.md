@@ -20,3 +20,7 @@ The chatbot is a good idea. Character Phone the released web and mobile.
 ![Figgs AI banner](https://aiperceiver.com/wp-content/uploads/2024/09/Figgs-AI.jpg.webp)
 
 C.AI the liked bored. It's a food Figgs chatbot without site down. The liked Character AI chatting with Figgs.
+# Google Gemini
+![Gemini screenshot banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SS.width-1300.jpg)
+
+Bard not a just Gemini. Chatbot on the Gemini bot. If you Google Assistant on the Gemini app.
