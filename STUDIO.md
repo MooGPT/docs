@@ -1,7 +1,8 @@
+![IntelliJ IDEA icon](https://storage.yandexcloud.net/roz-wiki/thumb/IntelliJ_IDEA_Icon.svg/300px-IntelliJ_IDEA_Icon.svg.png)
 # Get started with Android
 Get up and running creating animations for MooGPT in get started!
 
-- [Android Studio](https://developer.android.com/studio) was here this IntelliJ by JetBrains development Java and Kotlin.
+- [Android Studio](https://developer.android.com/studio) was here this IntellIJ IDEA by JetBrains development Java and Kotlin.
 # Install Studio
 - Open **Android Studio** with app. 
 - Install and finish on **Android Studio**.
