@@ -1,6 +1,6 @@
 # MooGPT Documentation
 
-This repo is the home of the unified Lottie docs hosted at [http://airbnb.io/lottie](http://airbnb.io/lottie). This repo is NOT the place to contribute to or report issues on any of the players or the After Effects plugin.
+This repo is the home of the unified MooGPT docs hosted at [website](http://moogpt.kr/). This repo is NOT the place to contribute to or report issues on any of the players or the SimSimi chatbot.
 
 
 ## Contributing to the docs directly on GitHub (easy)
